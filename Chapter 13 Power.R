@@ -1,4 +1,4 @@
-# # Chapter 13 exercise
+# # Chapter 13 exercise 
 # 1.Define power in your own words.
 
 # Ans =	Power is the probability that experimenter of researcher can correctly reject a false null hypothesis.
